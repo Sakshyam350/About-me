@@ -27,7 +27,7 @@ I'm currently on a journey to transition from high-level software development to
 
 ## 🎓 Education
 
-- **Bachelor in Computer Engineering**
+- **Bachelor in Computer Engineering (Running)**
   - *Kathmandu University (KU), Dhulikhel, Nepal*
   - Focusing on Engineering Physics, Fluid Mechanics, Electrical Circuits, and Programming Fundamentals.
 
@@ -37,8 +37,7 @@ I'm currently on a journey to transition from high-level software development to
 
 - **LinkedIn:** [Soon]
 - **Email:** [timsinasakshyam083@gmail.com]
-- **KU Portal:** [Student Identity / Department Link]
-
+  
 ---
 
 ### ⚡ Fun Fact
